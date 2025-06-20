@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Ivan Tesla",
+        "email": "inva_tesla@mail.com",
+        "address": "Zelena str., 12/2, Lviv, 80080, Ukraine",
+        "perm_address": "Svitla str., 25, Ternopi;, 79424, Ukraine"
+    },
+    {
+        "name": "Alex Smith",
+        "email": "alex_smith@mail.com",
+        "address": "123 Main St, New York, US",
+        "perm_address": "456 Secondary St, Los Angeles, US"
+    }
+]
